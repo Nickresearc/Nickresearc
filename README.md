@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nickresearc
-- 👀 I’m interested in blockchain
+- 👀 I’m interested in Technology, AI.
 - 🌱 I’m currently learning new technology
 - 💞️ I’m looking to collaborate on open-source and open problem
 - 📫 How to reach me comment on github
